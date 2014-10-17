@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kot:home|Door43 (kot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kot|d43-kot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kot/archive/master.zip|d43-kot.zip]]
+
+**Recent Changes**
+{{changes>ns = kot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kot|Ethnologue data]]
+
